@@ -81,4 +81,3 @@ let a = 'hello';
     console.log(name);
     console.log(middlename);
     console.log(age);
-    
